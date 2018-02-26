@@ -1,1 +1,1 @@
-# Library
+# Library management system
